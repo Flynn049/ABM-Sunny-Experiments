@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component LANGUAGE_LEVEL="JDK_17" inherit-compiler-output="true" jdk="17" jdk_type="JavaSDK">
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="lib" scope="RUNTIME"/>
+	<levels>
+		<level name="lib" value="project"/>
+		<level name="scala-sdk-2.11.12" value="project"/>
+		<level name="netlogo-6.3.0" value="project"/>
+	</levels>
+</component>
